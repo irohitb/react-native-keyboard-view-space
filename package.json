@@ -1,0 +1,30 @@
+{
+  "name": "react-native-keyboard-spacer",
+  "version": "1.0.0",
+  "description": "React-native-keyboard space animates the sliding up of your child component whenever keyboard appears.",
+  "main": "index.js",
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irohitb/react-native-keyboard-space.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "keyboard",
+    "visible-space",
+    "viewer",
+    "animations"
+  ],
+  "author": "Rohit Bhatia <irohitbhatia@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/irohitb/react-native-keyboard-space/issues"
+  },
+  "homepage": "https://github.com/irohitb/react-native-keyboard-space#readme"
+}
