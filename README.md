@@ -3,7 +3,7 @@
 [![NPM](https://nodei.co/npm/react-native-keyboard-view-space.png?compact=true)](https://nodei.co/npm/react-native-keyboard-view-space/)
 
 ## Description
-React-native-keyboard space animates the sliding up of your child component whenever keyboard appears.
+React-native-keyboard-spacer animates the sliding up of your child component whenever keyboard appears.
 
  <img src="https://user-images.githubusercontent.com/32276134/61786668-d01e8a80-ae2b-11e9-978c-5ca20b3cf92f.gif"  width="250" height="500">
 
