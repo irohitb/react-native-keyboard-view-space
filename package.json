@@ -1,6 +1,6 @@
 {
   "name": "react-native-keyboard-view-space",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "React-native-keyboard space animates the sliding up of your child component whenever keyboard appears.",
   "main": "lib/index.js",
   "types": "lib",
