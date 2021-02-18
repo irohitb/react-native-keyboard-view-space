@@ -3,7 +3,7 @@
 | | Status |
 | - | - |
 | Dependencies | [![Dependencies](https://img.shields.io/david/blendtale/react-native-keyboard-view-spacer.svg)](https://david-dm.org/blendtale/react-native-keyboard-view-spacer.svg) [![Dev dependencies](https://img.shields.io/david/dev/blendtale/react-native-keyboard-view-spacer.svg)](https://david-dm.org/blendtale/react-native-keyboard-view-spacer.svg) [![Peer dependencies](https://img.shields.io/david/peer/blendtale/react-native-keyboard-view-spacer.svg)](https://david-dm.org/blendtale/rn-formly)|
-| Package | [![npm package version](https://img.shields.io/npm/v/react-native-keyboard-view-spacer.svg)](https://www.npmjs.com/package/react-native-keyboard-view-spacer.svg) [![npm downloads](https://img.shields.io/npm/dt/react-native-keyboard-view-spacer.svg)](https://www.npmjs.com/package/react-native-keyboard-view-spacer.svg) [![Type definitions](https://img.shields.io/badge/types-TypeScript-blue.svg)]
+| Package | [![npm package version](https://img.shields.io/npm/v/react-native-keyboard-view-spacer.svg)](https://www.npmjs.com/package/react-native-keyboard-view-spacer.svg) [![npm downloads](https://img.shields.io/npm/dt/react-native-keyboard-view-spacer.svg)](https://www.npmjs.com/package/react-native-keyboard-view-spacer.svg) ![Type definitions](https://img.shields.io/badge/types-TypeScript-blue.svg)
 
 
 ## Description
