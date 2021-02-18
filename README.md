@@ -1,6 +1,10 @@
 # React-native-keyboard-spacer
 
-[![NPM](https://nodei.co/npm/react-native-keyboard-view-space.png?compact=true)](https://nodei.co/npm/react-native-keyboard-view-space/)
+  | Status |
+| - | - |
+| Dependencies | [![Dependencies](https://img.shields.io/david/blendtale/react-native-keyboard-view-space)](https://david-dm.org/blendtale/react-native-keyboard-view-space) [![Dev dependencies](https://img.shields.io/david/dev/blendtale/react-native-keyboard-view-space)](https://david-dm.org/blendtale/react-native-keyboard-view-space) [![Peer dependencies](https://img.shields.io/david/peer/blendtale/react-native-keyboard-view-space)](https://david-dm.org/blendtale/rn-formly)|
+| Package | [![npm package version](https://img.shields.io/npm/v/react-native-keyboard-view-space)](https://www.npmjs.com/package/react-native-keyboard-view-space) [![npm downloads](https://img.shields.io/npm/dt/react-native-keyboard-view-space)](https://www.npmjs.com/package/react-native-keyboard-view-space)[![Type definitions](https://img.shields.io/badge/types-TypeScript-blue.svg)](https://uppload.js.org/typedoc) |
+
 
 ## Description
 React-native-keyboard-spacer animates the sliding up of your child component whenever keyboard appears.
@@ -29,6 +33,6 @@ and finally use it like this
 
 ### Real World Example Code
 
-<strong> Note: </strong> Here is the [JSX code](https://github.com/blendtale/react-native-next-input/blob/master/example.js) and the [relavent styling](https://github.com/blendtale/react-native-next-input/blob/master/example.stylesheet.js) for the above gif UI. The  code also uses a [react-native-next-input]( https://www.npmjs.com/package/react-native-next-input) node module but that it totally optional for you to use it 
+<strong> Note: </strong> Here is the [JSX code](https://github.com/blendtale/react-native-keyboard-view-space/blob/master/example.js) and the [relavent styling](https://github.com/blendtale/react-native-keyboard-view-space/blob/master/example.stylesheet.js) for the above gif UI. The  code also uses a [react-native-keyboard-view-space]( https://www.npmjs.com/package/react-native-keyboard-view-space) node module but that it totally optional for you to use it 
 
 
