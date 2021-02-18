@@ -2,8 +2,8 @@
 
 | | Status |
 | - | - |
-| Dependencies | [![Dependencies](https://img.shields.io/david/blendtale/react-native-keyboard-view-space)](https://david-dm.org/blendtale/react-native-keyboard-view-space) [![Dev dependencies](https://img.shields.io/david/dev/blendtale/react-native-keyboard-view-space)](https://david-dm.org/blendtale/react-native-keyboard-view-space) [![Peer dependencies](https://img.shields.io/david/peer/blendtale/react-native-keyboard-view-space)](https://david-dm.org/blendtale/rn-formly)|
-| Package | [![npm package version](https://img.shields.io/npm/v/react-native-keyboard-view-space)](https://www.npmjs.com/package/react-native-keyboard-view-space) [![npm downloads](https://img.shields.io/npm/dt/react-native-keyboard-view-space)](https://www.npmjs.com/package/react-native-keyboard-view-space) [![Type definitions](https://img.shields.io/badge/types-TypeScript-blue.svg)](https://uppload.js.org/typedoc)
+| Dependencies | [![Dependencies](https://img.shields.io/david/blendtalereact-native-keyboard-view-spacer.svg)](https://david-dm.org/blendtalereact-native-keyboard-view-spacer.svg) [![Dev dependencies](https://img.shields.io/david/dev/blendtalereact-native-keyboard-view-spacer.svg)](https://david-dm.org/blendtalereact-native-keyboard-view-spacer.svg) [![Peer dependencies](https://img.shields.io/david/peer/blendtalereact-native-keyboard-view-spacer.svg)](https://david-dm.org/blendtale/rn-formly)|
+| Package | [![npm package version](https://img.shields.io/npm/vreact-native-keyboard-view-spacer.svg)](https://www.npmjs.com/packagereact-native-keyboard-view-spacer.svg) [![npm downloads](https://img.shields.io/npm/dtreact-native-keyboard-view-spacer.svg)](https://www.npmjs.com/packagereact-native-keyboard-view-spacer.svg) [![Type definitions](https://img.shields.io/badge/types-TypeScript-blue.svg)](https://uppload.js.org/typedoc)
 
 
 ## Description
@@ -33,6 +33,6 @@ and finally use it like this
 
 ### Real World Example Code
 
-<strong> Note: </strong> Here is the [JSX code](https://github.com/blendtale/react-native-keyboard-view-space/blob/master/example.js) and the [relavent styling](https://github.com/blendtale/react-native-keyboard-view-space/blob/master/example.stylesheet.js) for the above gif UI. The  code also uses a [react-native-keyboard-view-space]( https://www.npmjs.com/package/react-native-keyboard-view-space) node module but that it totally optional for you to use it 
+<strong> Note: </strong> Here is the [JSX code](https://github.com/blendtalereact-native-keyboard-view-spacer.svg/blob/master/example.js) and the [relavent styling](https://github.com/blendtalereact-native-keyboard-view-spacer.svg/blob/master/example.stylesheet.js) for the above gif UI. The  code also uses a [react-native-keyboard-view-space]( https://www.npmjs.com/packagereact-native-keyboard-view-spacer.svg) node module but that it totally optional for you to use it 
 
 
