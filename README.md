@@ -29,6 +29,6 @@ and finally use it like this
 
 ### Real World Example Code
 
-<strong> Note: </strong> Here is the [JSX code](https://github.com/irohitb/react-native-keyboard-spacer/blob/master/example.js) and the [relavent styling](https://github.com/irohitb/react-native-keyboard-spacer/blob/master/example.stylesheet.js) for the above gif UI. The  code also uses a [react-native-next-input]( https://www.npmjs.com/package/react-native-next-input) node module but that it totally optional for you to use it 
+<strong> Note: </strong> Here is the [JSX code](https://github.com/blendtale/react-native-next-input/blob/master/example.js) and the [relavent styling](https://github.com/blendtale/react-native-next-input/blob/master/example.stylesheet.js) for the above gif UI. The  code also uses a [react-native-next-input]( https://www.npmjs.com/package/react-native-next-input) node module but that it totally optional for you to use it 
 
 
