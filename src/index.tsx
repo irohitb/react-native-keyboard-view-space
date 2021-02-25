@@ -6,7 +6,7 @@ import {
   EmitterSubscription,
 } from 'react-native';
 
-interface children {
+export interface KeyboardViewSpacerProps {
   children: Array<React.ReactNode> | React.ReactNode;
   useNativeDriver?: boolean;
 }
@@ -14,7 +14,7 @@ interface children {
 const KeyboardViewSpacer = ({
   children,
   useNativeDriver = false,
-}: children) => {
+}: KeyboardViewSpacerProps) => {
   const keyboardHeight = new Animated.Value(0);
   const keyboardWillShowSub = React.useRef<null | EmitterSubscription>(null);
   const keyboardWillHideSub = React.useRef<null | EmitterSubscription>(null);
