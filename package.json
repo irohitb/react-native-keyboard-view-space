@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/blendtale/react-native-next-input.git"
+    "url": "git+https://github.com/blendtale/react-native-keyboard-view-space.git"
   },
   "devDependencies": {
     "@types/react-native": "^0.63.48",
@@ -47,7 +47,7 @@
   "author": "Rohit Bhatia <irohitbhatia@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/blendtale/react-native-next-input/issues"
+    "url": "https://github.com/blendtale/react-native-keyboard-view-space/issues"
   },
-  "homepage": "https://github.com/blendtale/react-native-next-input#readme"
+  "homepage": "https://github.com/blendtale/react-native-keyboard-view-space#readme"
 }
