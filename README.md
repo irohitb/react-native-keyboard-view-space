@@ -2,7 +2,7 @@
 
 | | Status |
 | - | - |
-| Dependencies | [![Dependencies](https://img.shields.io/david/blendtale/react-native-keyboard-view-space.svg)](https://david-dm.org/blendtale/react-native-keyboard-view-space) [![Dev dependencies](https://img.shields.io/david/dev/blendtale/react-native-keyboard-view-space.svg)](https://david-dm.org/blendtale/react-native-keyboard-view-space) [![Peer dependencies](https://img.shields.io/david/peer/blendtale/react-native-keyboard-view-space.svg)](https://david-dm.org/blendtale/react-native-keyboard-view-space)|
+| Dependencies | [![Dependencies](https://img.shields.io/david/blendtale/react-native-keyboard-view-space.svg)](https://david-dm.org/blendtale/react-native-keyboard-view-space)|
 | Package | [![npm package version](https://img.shields.io/npm/v/react-native-keyboard-view-space)](https://www.npmjs.com/package/react-native-keyboard-view-space) [![npm downloads](https://img.shields.io/npm/dt/react-native-keyboard-view-space)](https://www.npmjs.com/package/react-native-keyboard-view-space) ![Type definitions](https://img.shields.io/badge/types-TypeScript-blue.svg)
 
 
